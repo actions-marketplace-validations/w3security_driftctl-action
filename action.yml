@@ -1,4 +1,4 @@
-name: "driftctl-action"
+name: "gh-driftctl-action"
 author: "W3Security"
 description: "Run driftctl in your GitHub Actions workflow."
 
